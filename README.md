@@ -1,5 +1,7 @@
-# Lab 10 - Starter
+# Lab 10
 
-[canny.io](https://cse110-lab10-piaox.canny.io/)
+Roadmap & Feature Requests page: [canny.io](https://cse110-lab10-piaox.canny.io/)
 
-[index](https://piaox.github.io/Lab10_Starter/)
+Page: [index](https://piaox.github.io/Lab10_Starter/)
+
+![Event data](google-analytics.png)
